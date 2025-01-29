@@ -5,3 +5,4 @@
 ### 24/01/2025 finished the 2nd js exercise, needed a lot of help but managed to figure out the solution for the last part on my own
 ### 25/01/2025 Got started with The Odin Project
 ### 27/01/2025 started the 3rd JS excersise from freecodecamp 
+### 28/01/2025 got around step 50, also started a typing course
