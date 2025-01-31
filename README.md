@@ -6,3 +6,4 @@
 ### 25/01/2025 Got started with The Odin Project
 ### 27/01/2025 started the 3rd JS excersise from freecodecamp 
 ### 28/01/2025 got around step 50, also started a typing course
+### 30/01/2025 got around setp 137, might finish it tomorrow
