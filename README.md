@@ -7,3 +7,5 @@
 ### 27/01/2025 started the 3rd JS excersise from freecodecamp 
 ### 28/01/2025 got around step 50, also started a typing course
 ### 30/01/2025 got around setp 137, might finish it tomorrow
+### 01/02/2025 finished the role playing game exercise, also got a certification for typing
+### 02/02/2025 got around step 20 for the calorie counter excercise from freecodecamp
