@@ -11,3 +11,5 @@
 ### 02/02/2025 got around step 20 for the calorie counter excercise from freecodecamp
 ### 03/02/2025 watched the cs50x harvard course, week 2
 ### 04/02/2025 got my first virtual machine running with xubuntu as per the odin project sugested 
+### 05/02/2025 got some progress done on the calorie counter, watched another cs50 class
+### 06/02/2025 finished the calorie counter, decided to focus on the freecodecamp and pause the cs50 and OTP
