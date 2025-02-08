@@ -12,4 +12,5 @@
 ### 03/02/2025 watched the cs50x harvard course, week 2
 ### 04/02/2025 got my first virtual machine running with xubuntu as per the odin project sugested 
 ### 05/02/2025 got some progress done on the calorie counter, watched another cs50 class
-### 06/02/2025 finished the calorie counter, decided to focus on the freecodecamp and pause the cs50 and OTP
+### 06/02/2025 finished the calorie counter, decided to focus on the freecodecamp and pause the cs50 and OTP, also got the intermediate typeing certification
+### 07/02/2025 finished the rock paper scissors game, using minimal help and actually figuring things on my own this time, it was fun, actually.
