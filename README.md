@@ -14,3 +14,4 @@
 ### 05/02/2025 got some progress done on the calorie counter, watched another cs50 class
 ### 06/02/2025 finished the calorie counter, decided to focus on the freecodecamp and pause the cs50 and OTP, also got the intermediate typeing certification
 ### 07/02/2025 finished the rock paper scissors game, using minimal help and actually figuring things on my own this time, it was fun, actually.
+### 11/02/2025 paused the js course to study databases in postgreSQL, might get a job opportunity soon-ish
